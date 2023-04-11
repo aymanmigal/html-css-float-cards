@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    
+max-width: 1170px;
+margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Fredoka', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    color: #e01674;
+}
+
+p {
+    font-family: 'Fredoka', sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    color: black;
+    
+    
+}
+
+    
